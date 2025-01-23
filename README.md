@@ -2,14 +2,12 @@
 
 Welcome to the guide on **DAX Queries for Power BI**! This README is designed to help you understand complex DAX queries in a simple and easy-to-follow format. Each section includes explanations, syntax, and practical examples, so you can quickly apply these concepts to your Power BI projects.
 
----
 
 ## What is DAX?
 **DAX (Data Analysis Expressions)** is a formula language used in Power BI, Power Pivot, and SQL Server Analysis Services to perform calculations and analyze data. It enables you to create measures, calculated columns, and tables to derive insights from your data models.
 
 DAX is powerful yet simple to learn if you break it down into its fundamental components. This guide covers essential DAX queries with real-world examples.
 
----
 
 ## Key DAX Concepts and Queries
 
